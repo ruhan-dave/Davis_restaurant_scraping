@@ -1,0 +1,175 @@
+restaurant_name,link,rating,votes,cuisine_type,pricing,type1,type2,type3
+Sam’s Mediterranean Cuisine,yelp.com/biz/sams-mediterranean-cuisine-davis,4.5 star rating,1173,"Mediterranean,Halal,",$,Mediterranean,Halal,
+Burgers and Brew,yelp.com/biz/burgers-and-brew-davis,4 star rating,2089,"Burgers,Bars,",$$,Burgers,Bars,
+Four Seasons Gourmet Chinese Restaurant,yelp.com/biz/four-seasons-gourmet-chinese-restaurant-davis,4.5 star rating,747,"Chinese,",$,Chinese,,
+Dutch Bros Coffee,yelp.com/biz/dutch-bros-coffee-davis-2,4.5 star rating,785,"Coffee & Tea,Juice Bars & Smoothies,",$,Coffee & Tea,Juice Bars & Smoothies,
+Taqueria Davis,yelp.com/biz/taqueria-davis-davis,4.5 star rating,611,"Mexican,",$,Mexican,,
+Dumpling House,yelp.com/biz/dumpling-house-davis,4 star rating,1255,"Chinese,",$,Chinese,,
+Sweet and Shavery,yelp.com/biz/sweet-and-shavery-davis,4.5 star rating,368,"Desserts,Shaved Ice,Ice Cream & Frozen Yogurt,",$,Desserts,Shaved Ice,Ice Cream & Frozen Yogurt
+Mikuni Japanese Restaurant and Sushi Bar,yelp.com/biz/mikuni-japanese-restaurant-and-sushi-bar-davis-2,4 star rating,920,"Japanese,Sushi Bars,Seafood,",$$,Japanese,Sushi Bars,Seafood
+Taqueria Guadalajara,yelp.com/biz/taqueria-guadalajara-davis,4 star rating,839,"Mexican,",$,Mexican,,
+Nugget Markets,yelp.com/biz/nugget-markets-davis,4.5 star rating,392,"Grocery,Fruits & Veggies,Sandwiches,",$$,Grocery,Fruits & Veggies,Sandwiches
+Zumapoke & Lush Ice,yelp.com/biz/zumapoke-and-lush-ice-davis-2,4.5 star rating,523,"Sushi Bars,Seafood,Poke,",$$,Sushi Bars,Seafood,Poke
+Woodstock’s Pizza,yelp.com/biz/woodstocks-pizza-davis-3,4 star rating,859,"Pizza,Gluten-Free,Vegetarian,",$$,Pizza,Gluten-Free,Vegetarian
+Good Friends Hawaiian Poke,yelp.com/biz/good-friends-hawaiian-poke-davis,4.5 star rating,260,"Poke,Seafood,Hawaiian,",$$,Poke,Seafood,Hawaiian
+Temple Coffee Roasters,yelp.com/biz/temple-coffee-roasters-davis,4 star rating,482,"Coffee & Tea,Coffee Roasteries,",$,Coffee & Tea,Coffee Roasteries,
+Crepeville,yelp.com/biz/crepeville-davis,4 star rating,969,"Breakfast & Brunch,Creperies,Sandwiches,",$$,Breakfast & Brunch,Creperies,Sandwiches
+Thai Canteen,yelp.com/biz/thai-canteen-davis,3.5 star rating,1018,"Thai,Salad,Noodles,",$$,Thai,Salad,Noodles
+Tommy J’s Grill & Catering,yelp.com/biz/tommy-js-grill-and-catering-davis,4 star rating,414,"Burgers,American (Traditional),Bars,",$$,Burgers,American (Traditional),Bars
+Tea List,yelp.com/biz/tea-list-davis,4 star rating,426,"Coffee & Tea,Tea Rooms,Sandwiches,",$$,Coffee & Tea,Tea Rooms,Sandwiches
+Raja’s Tandoor,yelp.com/biz/rajas-tandoor-davis-2,4 star rating,671,"Indian,",$,Indian,,
+Blaze Pizza,yelp.com/biz/blaze-pizza-davis,4 star rating,497,"Pizza,Salad,Fast Food,",$,Pizza,Salad,Fast Food
+In-N-Out Burger,yelp.com/biz/in-n-out-burger-davis,4 star rating,418,"Fast Food,Burgers,",$,Fast Food,Burgers,
+Davis Creamery,yelp.com/biz/davis-creamery-davis,4.5 star rating,282,"Ice Cream & Frozen Yogurt,Desserts,Cupcakes,",$,Ice Cream & Frozen Yogurt,Desserts,Cupcakes
+Zia’s Delicatessen,yelp.com/biz/zias-delicatessen-davis,4 star rating,360,"Delis,Sandwiches,",$,Delis,Sandwiches,
+Shah’s Halal Food - University Mall,yelp.com/biz/shahs-halal-food-university-mall-davis,4.5 star rating,332,"Food Trucks,Halal,Mediterranean,",$$,Food Trucks,Halal,Mediterranean
+Tasty Gourmet,yelp.com/biz/tasty-gourmet-davis-3,5 star rating,151,"Cantonese,",$$,Cantonese,,
+My Burma,yelp.com/biz/my-burma-davis,4.5 star rating,217,"Burmese,Asian Fusion,",$$,Burmese,Asian Fusion,
+UC Davis Arboretum and Public Garden,yelp.com/biz/uc-davis-arboretum-and-public-garden-davis,4.5 star rating,167,"Botanical Gardens,Nurseries & Gardening,",$$,Botanical Gardens,Nurseries & Gardening,
+Yakitori Yuchan,yelp.com/biz/yakitori-yuchan-davis,4 star rating,508,"Ramen,Tapas/Small Plates,Izakaya,",$,Ramen,Tapas/Small Plates,Izakaya
+Root Of Happiness,yelp.com/biz/root-of-happiness-davis,4.5 star rating,206,"Coffee & Tea,Lounges,",$$,Coffee & Tea,Lounges,
+Mishka’s Cafe,yelp.com/biz/mishkas-cafe-davis,4 star rating,492,"Coffee & Tea,",$,Coffee & Tea,,
+Thai Nakorn,yelp.com/biz/thai-nakorn-davis,3.5 star rating,511,"Thai,Salad,Soup,",$$,Thai,Salad,Soup
+Village Bakery,yelp.com/biz/village-bakery-davis,4 star rating,298,"Bakeries,Pizza,Salad,",$$,Bakeries,Pizza,Salad
+Davis Food Co-op,yelp.com/biz/davis-food-co-op-davis,4 star rating,251,"Grocery,Delis,Fruits & Veggies,",$$,Grocery,Delis,Fruits & Veggies
+Let Them Eat Cake,yelp.com/biz/let-them-eat-cake-davis-2,4 star rating,421,"Bakeries,Custom Cakes,Cupcakes,",$$,Bakeries,Custom Cakes,Cupcakes
+Paesanos,yelp.com/biz/paesanos-davis-2,3.5 star rating,638,"Italian,Pizza,",$$,Italian,Pizza,
+MandRo Teahouse,yelp.com/biz/mandro-teahouse-davis,4 star rating,504,"Bubble Tea,Desserts,Shaved Snow,",$$,Bubble Tea,Desserts,Shaved Snow
+Wok of Flame,yelp.com/biz/wok-of-flame-davis,4 star rating,517,"Chinese,Desserts,",$$,Chinese,Desserts,
+Zen Toro Japanese Bistro & Sushi Bar,yelp.com/biz/zen-toro-japanese-bistro-and-sushi-bar-davis,3.5 star rating,490,"Sushi Bars,Japanese,",$,Sushi Bars,Japanese,
+Yeti Restaurant,yelp.com/biz/yeti-restaurant-davis,4 star rating,367,"Indian,Himalayan/Nepalese,Seafood,",$,Indian,Himalayan/Nepalese,Seafood
+Guads Tacos & Beer,yelp.com/biz/guads-tacos-and-beer-no-title,5 star rating,103,"Beer Bar,Tacos,",$$,Beer Bar,Tacos,
+Yoloberry Yogurt,yelp.com/biz/yoloberry-yogurt-davis,4 star rating,338,"Ice Cream & Frozen Yogurt,",$,Ice Cream & Frozen Yogurt,,
+Delta of Venus,yelp.com/biz/delta-of-venus-davis,4 star rating,399,"Pubs,Cafes,Breakfast & Brunch,",$$,Pubs,Cafes,Breakfast & Brunch
+Ike’s Love & Sandwiches,yelp.com/biz/ikes-love-and-sandwiches-davis-5,4 star rating,385,"Sandwiches,",$$,Sandwiches,,
+Kathmandu Kitchen,yelp.com/biz/kathmandu-kitchen-davis,3.5 star rating,528,"Indian,Himalayan/Nepalese,",$$,Indian,Himalayan/Nepalese,
+Huku Japanese Bistro,yelp.com/biz/huku-japanese-bistro-davis-3,4 star rating,388,"Japanese,Sushi Bars,",$,Japanese,Sushi Bars,
+Cafe Bernardo,yelp.com/biz/cafe-bernardo-davis-2,3.5 star rating,625,"American (New),",$,American (New),,
+Fluffy Donuts,yelp.com/biz/fluffy-donuts-davis,4 star rating,247,"Donuts,Coffee & Tea,Juice Bars & Smoothies,",$$,Donuts,Coffee & Tea,Juice Bars & Smoothies
+Cultivé Frozen Yogurt,yelp.com/biz/cultiv%C3%A9-frozen-yogurt-davis-2,4 star rating,288,"Ice Cream & Frozen Yogurt,",$,Ice Cream & Frozen Yogurt,,
+Ikedas California Country Market,yelp.com/biz/ikedas-california-country-market-davis,4 star rating,245,"Bakeries,Fruits & Veggies,Grocery,",$$,Bakeries,Fruits & Veggies,Grocery
+Teabo Café,yelp.com/biz/teabo-caf%C3%A9-davis,3.5 star rating,593,"Cafes,Bubble Tea,",$$,Cafes,Bubble Tea,
+Sophia’s Thai Bar & Kitchen,yelp.com/biz/sophias-thai-bar-and-kitchen-davis,3.5 star rating,735,"Thai,Seafood,Cocktail Bars,",$$,Thai,Seafood,Cocktail Bars
+T-Kumi Ramen & Rice Bowl,yelp.com/biz/t-kumi-ramen-and-rice-bowl-davis-3,4 star rating,299,"Ramen,Bubble Tea,Seafood,",$,Ramen,Bubble Tea,Seafood
+Common Grounds Coffee,yelp.com/biz/common-grounds-coffee-davis,4 star rating,268,"Coffee & Tea,",$,Coffee & Tea,,
+Taqueria Guadalajara Grill,yelp.com/biz/taqueria-guadalajara-grill-davis,4 star rating,366,"Mexican,",$$,Mexican,,
+The Posh Bagel,yelp.com/biz/the-posh-bagel-davis,4 star rating,285,"Bagels,Coffee & Tea,Sandwiches,",$$,Bagels,Coffee & Tea,Sandwiches
+Burger Patch - Davis,yelp.com/biz/burger-patch-davis-davis,4 star rating,191,"Burgers,Vegan,Fast Food,",$,Burgers,Vegan,Fast Food
+Black Bear Diner,yelp.com/biz/black-bear-diner-davis,3.5 star rating,535,"American (Traditional),Breakfast & Brunch,Diners,",$,American (Traditional),Breakfast & Brunch,Diners
+Philz Coffee,yelp.com/biz/philz-coffee-davis-5,4 star rating,209,"Coffee & Tea,Breakfast & Brunch,",$,Coffee & Tea,Breakfast & Brunch,
+Lazi Cow,yelp.com/biz/lazi-cow-davis,3.5 star rating,476,"Desserts,Bubble Tea,Ramen,",$,Desserts,Bubble Tea,Ramen
+Ali Baba,yelp.com/biz/ali-baba-davis-2,4 star rating,368,"Middle Eastern,",$,Middle Eastern,,
+Cloud Forest Cafe,yelp.com/biz/cloud-forest-cafe-davis,4 star rating,268,"Coffee & Tea,Breakfast & Brunch,Sandwiches,",$$$,Coffee & Tea,Breakfast & Brunch,Sandwiches
+The Hotdogger,yelp.com/biz/the-hotdogger-davis,4 star rating,278,"Hot Dogs,",$,Hot Dogs,,
+The Mustard Seed,yelp.com/biz/the-mustard-seed-davis,4 star rating,324,"American (New),Desserts,Wine Bars,",$$,American (New),Desserts,Wine Bars
+Dos Coyotes Border Cafe,yelp.com/biz/dos-coyotes-border-cafe-davis-2,3.5 star rating,495,"Tex-Mex,Tacos,",$,Tex-Mex,Tacos,
+Teaspoon,yelp.com/biz/teaspoon-davis,4.5 star rating,89,"Bubble Tea,",$$$,Bubble Tea,,
+Icekrimski Cafe,yelp.com/biz/icekrimski-cafe-davis,4 star rating,170,"Ice Cream & Frozen Yogurt,Cafes,",$,Ice Cream & Frozen Yogurt,Cafes,
+Osteria Fasulo,yelp.com/biz/osteria-fasulo-davis,4 star rating,269,"Italian,",$$,Italian,,
+Taqueria El Burrito,yelp.com/biz/taqueria-el-burrito-davis,3.5 star rating,505,"Mexican,",$$$,Mexican,,
+Dos Coyotes Border Cafe,yelp.com/biz/dos-coyotes-border-cafe-davis,3.5 star rating,428,"Tex-Mex,Tacos,",$$,Tex-Mex,Tacos,
+D Street Steakhouse,yelp.com/biz/d-street-steakhouse-davis,4 star rating,257,"Cocktail Bars,Steakhouses,",$$,Cocktail Bars,Steakhouses,
+Froggy’s,yelp.com/biz/froggys-davis-2,4 star rating,258,"Bars,Burgers,American (Traditional),",$$,Bars,Burgers,American (Traditional)
+Preethi Indian Cuisine,yelp.com/biz/preethi-indian-cuisine-davis,3.5 star rating,328,"Indian,",$$,Indian,,
+Cindy’s Kow Thai Restaurant,yelp.com/biz/cindys-kow-thai-restaurant-davis,4 star rating,303,"Thai,American (Traditional),Breakfast & Brunch,",$$,Thai,American (Traditional),Breakfast & Brunch
+The Halal Guys,yelp.com/biz/the-halal-guys-davis,4 star rating,254,"Halal,Middle Eastern,Mediterranean,",$,Halal,Middle Eastern,Mediterranean
+University Of Beer - Davis,yelp.com/biz/university-of-beer-davis-davis,4 star rating,224,"Beer Bar,Sports Bars,Pubs,",$$,Beer Bar,Sports Bars,Pubs
+Davis Noodle City,yelp.com/biz/davis-noodle-city-davis,3.5 star rating,504,"Taiwanese,Chinese,Noodles,",$$,Taiwanese,Chinese,Noodles
+Davis Sushi Buffet,yelp.com/biz/davis-sushi-buffet-davis,3 star rating,660,"Sushi Bars,Buffets,",$$,Sushi Bars,Buffets,
+Nugget Markets,yelp.com/biz/nugget-markets-davis-3,4 star rating,135,"Grocery,Fruits & Veggies,Sandwiches,",$$,Grocery,Fruits & Veggies,Sandwiches
+Nami Sushi,yelp.com/biz/nami-sushi-davis,3.5 star rating,312,"Sushi Bars,Japanese,",$$,Sushi Bars,Japanese,
+I Love Sushi,yelp.com/biz/i-love-sushi-davis,4 star rating,215,"Sushi Bars,Japanese,Asian Fusion,",$,Sushi Bars,Japanese,Asian Fusion
+Village Pizza & Grill,yelp.com/biz/village-pizza-and-grill-davis,3.5 star rating,318,"Pizza,Persian/Iranian,Burgers,",$$,Pizza,Persian/Iranian,Burgers
+Open Rice Kitchen,yelp.com/biz/open-rice-kitchen-davis,3 star rating,560,"Chinese,Asian Fusion,Soup,",$,Chinese,Asian Fusion,Soup
+Red 88 Noodle Bar,yelp.com/biz/red-88-noodle-bar-davis,3 star rating,460,"Bars,Noodles,",$$,Bars,Noodles,
+The Old Teahouse,yelp.com/biz/the-old-teahouse-davis-3,4 star rating,224,"Bubble Tea,Coffee & Tea,Juice Bars & Smoothies,",$$,Bubble Tea,Coffee & Tea,Juice Bars & Smoothies
+Hunan Bar & Restaurant,yelp.com/biz/hunan-bar-and-restaurant-davis,3.5 star rating,309,"Chinese,Seafood,Bars,",$,Chinese,Seafood,Bars
+Tres Hermanas,yelp.com/biz/tres-hermanas-davis,3.5 star rating,360,"Mexican,Bars,",$,Mexican,Bars,
+Shanghai Town,yelp.com/biz/shanghai-town-davis,3.5 star rating,324,"Chinese,",$$,Chinese,,
+T4 Tea For U,yelp.com/biz/t4-tea-for-u-davis-4,4 star rating,185,"Bubble Tea,Juice Bars & Smoothies,Tea Rooms,",$$,Bubble Tea,Juice Bars & Smoothies,Tea Rooms
+Lamppost Pizza,yelp.com/biz/lamppost-pizza-davis-5,4 star rating,186,"Pizza,Sports Bars,",$$,Pizza,Sports Bars,
+Jusco Japanese Restaurant,yelp.com/biz/jusco-japanese-restaurant-davis,3.5 star rating,337,"Japanese,Sushi Bars,Buffets,",$$,Japanese,Sushi Bars,Buffets
+Musette,yelp.com/biz/musette-davis,5 star rating,39,"Vegan,Vegetarian,Cafes,",$$,Vegan,Vegetarian,Cafes
+3rd and U Cafe,yelp.com/biz/3rd-and-u-cafe-davis,3.5 star rating,217,"American (New),Hot Dogs,Delis,",$,American (New),Hot Dogs,Delis
+Seasons Restaurant,yelp.com/biz/seasons-restaurant-davis-2,3.5 star rating,300,"American (New),Bars,",$$,American (New),Bars,
+Akira Coffee & Tea,yelp.com/biz/akira-coffee-and-tea-davis,4 star rating,103,"Bubble Tea,",$,Bubble Tea,,
+Pho King 4,yelp.com/biz/pho-king-4-davis-2,3 star rating,723,"Vietnamese,Chinese,",$$,Vietnamese,Chinese,
+ASUCD Coffee House Coho,yelp.com/biz/asucd-coffee-house-coho-davis,3.5 star rating,171,"Coffee & Tea,Breakfast & Brunch,Tex-Mex,",$$,Coffee & Tea,Breakfast & Brunch,Tex-Mex
+Tim’s Hawaiian BBQ,yelp.com/biz/tims-hawaiian-bbq-davis,4 star rating,79,"Hawaiian,Barbeque,",$$,Hawaiian,Barbeque,
+Steve’s Pizza,yelp.com/biz/steves-pizza-davis-4,3.5 star rating,203,"Pizza,Italian,",$$,Pizza,Italian,
+Symposium Restaurant & Pizza House,yelp.com/biz/symposium-restaurant-and-pizza-house-davis,3.5 star rating,183,"Pizza,Greek,",$,Pizza,Greek,
+Cajun Feast,yelp.com/biz/cajun-feast-davis-2,4 star rating,152,"Cajun/Creole,Asian Fusion,",$$,Cajun/Creole,Asian Fusion,
+Beat the Heat @ Yoloberry Yogurt!,yelp.com/biz/beat-the-heat-yoloberry-yogurt-davis,5 star rating,23,"Yelp Events,",$,Yelp Events,,
+Fire Wings - Davis,yelp.com/biz/fire-wings-davis-davis,3.5 star rating,219,"Chicken Wings,",$,Chicken Wings,,
+Peet’s Coffee,yelp.com/biz/peets-coffee-davis-3,4 star rating,105,"Coffee & Tea,",$,Coffee & Tea,,
+Pho Tasty,yelp.com/biz/pho-tasty-davis,4 star rating,96,"Vietnamese,",$$,Vietnamese,,
+Ding How Restaurant,yelp.com/biz/ding-how-restaurant-davis,3.5 star rating,263,"Chinese,Vegetarian,",$$,Chinese,Vegetarian,
+Mr. Pickle’s Sandwich Shop,yelp.com/biz/mr-pickles-sandwich-shop-davis,4 star rating,123,"Sandwiches,American (New),Soup,",$,Sandwiches,American (New),Soup
+Upper Crust Baking,yelp.com/biz/upper-crust-baking-davis,4 star rating,96,"Bakeries,Desserts,Pizza,",$$,Bakeries,Desserts,Pizza
+Hometown Taiwanese Kitchen & Bar,yelp.com/biz/hometown-taiwanese-kitchen-and-bar-davis-3,4 star rating,94,"Taiwanese,Chinese,",$$,Taiwanese,Chinese,
+Village Pizza & Pints,yelp.com/biz/village-pizza-and-pints-davis-2,4 star rating,89,"Pizza,",$$,Pizza,,
+Well Season - Davis,yelp.com/biz/well-season-davis-davis,3.5 star rating,143,"Dim Sum,Cantonese,Seafood,",$,Dim Sum,Cantonese,Seafood
+i-Tea,yelp.com/biz/i-tea-davis-2,3.5 star rating,129,"Bubble Tea,Juice Bars & Smoothies,Ramen,",$$,Bubble Tea,Juice Bars & Smoothies,Ramen
+Manna Korean Restaurant,yelp.com/biz/manna-korean-restaurant-davis,3 star rating,273,"Korean,",$,Korean,,
+Tasty Kitchen,yelp.com/biz/tasty-kitchen-davis,3 star rating,243,"Cantonese,",$,Cantonese,,
+Chengdu Style,yelp.com/biz/chengdu-style-davis,3.5 star rating,212,"Chinese,",$,Chinese,,
+Pachamama Coffee,yelp.com/biz/pachamama-coffee-davis,4.5 star rating,40,"Coffee & Tea,Cafes,",$,Coffee & Tea,Cafes,
+Westlake Market,yelp.com/biz/westlake-market-davis,4.5 star rating,51,"Grocery,Delis,",$$,Grocery,Delis,
+Starbucks,yelp.com/biz/starbucks-davis-6,3.5 star rating,134,"Coffee & Tea,",$,Coffee & Tea,,
+Mermaid Sushi,yelp.com/biz/mermaid-sushi-davis-2,4.5 star rating,44,"Sushi Bars,Seafood,Salad,",$,Sushi Bars,Seafood,Salad
+Rare Tea - Davis,yelp.com/biz/rare-tea-davis-davis,3.5 star rating,168,"Bubble Tea,",$,Bubble Tea,,
+Toad Hollow Dog Park,yelp.com/biz/toad-hollow-dog-park-davis,4 star rating,74,"Dog Parks,",$,Dog Parks,,
+Farmer’s Kitchen,yelp.com/biz/farmers-kitchen-davis,4 star rating,92,"Gluten-Free,Grocery,Organic Stores,",$,Gluten-Free,Grocery,Organic Stores
+Myu Myu,yelp.com/biz/myu-myu-davis,5 star rating,18,"Convenience Stores,Japanese,",$,Convenience Stores,Japanese,
+Three Ladies Cafe,yelp.com/biz/three-ladies-cafe-davis,3.5 star rating,165,"Juice Bars & Smoothies,Sandwiches,Breakfast & Brunch,",$,Juice Bars & Smoothies,Sandwiches,Breakfast & Brunch
+Jan Shrem and Maria Manetti Shrem Museum of Art,yelp.com/biz/jan-shrem-and-maria-manetti-shrem-museum-of-art-davis,5 star rating,24,"Museums,",$,Museums,,
+Peet’s Coffee,yelp.com/biz/peets-coffee-davis,3.5 star rating,115,"Coffee & Tea,",$,Coffee & Tea,,
+Jack’s Urban Eats,yelp.com/biz/jacks-urban-eats-davis,3 star rating,280,"American (Traditional),Salad,Sandwiches,",$$,American (Traditional),Salad,Sandwiches
+Ohana Hawaiian BBQ,yelp.com/biz/ohana-hawaiian-bbq-davis,3 star rating,329,"Hawaiian,Barbeque,",$,Hawaiian,Barbeque,
+Tim’s Kitchen,yelp.com/biz/tims-kitchen-davis,4.5 star rating,26,"Asian Fusion,",$,Asian Fusion,,
+Cake Couture Love,yelp.com/biz/cake-couture-love-davis,5 star rating,17,"Custom Cakes,Cupcakes,Kids Activities,",$$,Custom Cakes,Cupcakes,Kids Activities
+City of Davis,yelp.com/biz/city-of-davis-davis-2,4.5 star rating,18,"Local Flavor,",$,Local Flavor,,
+Black Frog Coffee,yelp.com/biz/black-frog-coffee-davis-2,4.5 star rating,25,"Coffee & Tea,",$$,Coffee & Tea,,
+Northstar Park,yelp.com/biz/northstar-park-davis,5 star rating,19,"Parks,",$$,Parks,,
+La crêpe,yelp.com/biz/la-cr%C3%AApe-davis-2,4 star rating,52,"Creperies,French,",$,Creperies,French,
+Chipotle Mexican Grill,yelp.com/biz/chipotle-mexican-grill-davis-2,3 star rating,253,"Mexican,Fast Food,",$$,Mexican,Fast Food,
+El Patio Fresh Mexican Grill,yelp.com/biz/el-patio-fresh-mexican-grill-davis-2,3.5 star rating,98,"Mexican,Salad,Breakfast & Brunch,",$$,Mexican,Salad,Breakfast & Brunch
+Sharetea,yelp.com/biz/sharetea-davis-9,4.5 star rating,33,"Bubble Tea,Coffee & Tea,Juice Bars & Smoothies,",$$,Bubble Tea,Coffee & Tea,Juice Bars & Smoothies
+Uniboil,yelp.com/biz/uniboil-davis-3,3.5 star rating,126,"Noodles,Hot Pot,Chinese,",$,Noodles,Hot Pot,Chinese
+Insomnia Cookies,yelp.com/biz/insomnia-cookies-davis,3.5 star rating,123,"Desserts,Ice Cream & Frozen Yogurt,Food Delivery Services,",$$,Desserts,Ice Cream & Frozen Yogurt,Food Delivery Services
+Jamba,yelp.com/biz/jamba-davis,3.5 star rating,79,"Juice Bars & Smoothies,Sandwiches,",$$,Juice Bars & Smoothies,Sandwiches,
+FatFace,yelp.com/biz/fatface-davis-2,4.5 star rating,22,"Desserts,Specialty Food,Food Stands,",$,Desserts,Specialty Food,Food Stands
+Baskin-Robbins,yelp.com/biz/baskin-robbins-davis,3.5 star rating,81,"Ice Cream & Frozen Yogurt,Desserts,Custom Cakes,",$$,Ice Cream & Frozen Yogurt,Desserts,Custom Cakes
+Central Park,yelp.com/biz/central-park-davis,4.5 star rating,24,"Parks,",$$,Parks,,
+Starbucks,yelp.com/biz/starbucks-davis-5,3.5 star rating,102,"Coffee & Tea,",$$,Coffee & Tea,,
+Panera Bread,yelp.com/biz/panera-bread-davis,3 star rating,159,"Sandwiches,Salad,Soup,",$$,Sandwiches,Salad,Soup
+Pizza Guys,yelp.com/biz/pizza-guys-davis-2,3.5 star rating,86,"Pizza,Salad,",$,Pizza,Salad,
+Chuy’s Taqueria,yelp.com/biz/chuys-taqueria-davis,3.5 star rating,119,"Mexican,",$$,Mexican,,
+Casablanca,yelp.com/biz/casablanca-davis,4 star rating,48,"Mediterranean,Moroccan,Salad,",$,Mediterranean,Moroccan,Salad
+Nick the Greek,yelp.com/biz/nick-the-greek-no-title,4 star rating,41,"Greek,",$,Greek,,
+The Gunrock,yelp.com/biz/the-gunrock-davis,4 star rating,51,"American (New),",$,American (New),,
+Segundo Dining Commons,yelp.com/biz/segundo-dining-commons-davis,4 star rating,45,"Cafeteria,",$,Cafeteria,,
+Cenario’s Pizza of Davis,yelp.com/biz/cenarios-pizza-of-davis-davis,3.5 star rating,76,"Pizza,Chicken Wings,Italian,",$$,Pizza,Chicken Wings,Italian
+Slide Hill Park,yelp.com/biz/slide-hill-park-davis,5 star rating,14,"Parks,Playgrounds,Tennis,",$,Parks,Playgrounds,Tennis
+Honey D Cafe,yelp.com/biz/honey-d-cafe-davis,3.5 star rating,62,"Taiwanese,Desserts,Cafes,",$,Taiwanese,Desserts,Cafes
+G Street WunderBar,yelp.com/biz/g-street-wunderbar-davis,3 star rating,173,"Dive Bars,Sports Bars,Arcades,",$,Dive Bars,Sports Bars,Arcades
+Beach Hut Deli,yelp.com/biz/beach-hut-deli-davis-2,3 star rating,157,"Sandwiches,Delis,Salad,",$,Sandwiches,Delis,Salad
+Ume Tea - Davis,yelp.com/biz/ume-tea-davis-davis,4.5 star rating,37,"Bubble Tea,",$$,Bubble Tea,,
+Starbucks,yelp.com/biz/starbucks-davis-9,3.5 star rating,95,"Coffee & Tea,",$,Coffee & Tea,,
+Raising Cane’s,yelp.com/biz/raising-cane-s-davis,3.5 star rating,88,"Chicken Wings,Fast Food,Sandwiches,",$,Chicken Wings,Fast Food,Sandwiches
+Noah’s NY Bagels,yelp.com/biz/noahs-bagels-davis,2.5 star rating,198,"Bagels,Breakfast & Brunch,Sandwiches,",$,Bagels,Breakfast & Brunch,Sandwiches
+Davis Stampede,yelp.com/biz/davis-stampede-davis,4.5 star rating,13,"Local Flavor,",$,Local Flavor,,
+Wingstop,yelp.com/biz/wingstop-davis-2,2.5 star rating,155,"Chicken Wings,",$$,Chicken Wings,,
+TOGO’S Sandwiches,yelp.com/biz/togos-sandwiches-davis-3,3.5 star rating,66,"Sandwiches,Fast Food,Salad,",$,Sandwiches,Fast Food,Salad
+Davis Barbecue Pit,yelp.com/biz/davis-barbecue-pit-davis,3.5 star rating,55,"Barbeque,Burgers,Sandwiches,",$,Barbeque,Burgers,Sandwiches
+Wiki Bar,yelp.com/biz/wiki-bar-davis-2,4 star rating,23,"Cocktail Bars,Wine Bars,",$$,Cocktail Bars,Wine Bars,
+McDonald’s,yelp.com/biz/mcdonalds-davis,2.5 star rating,172,"Fast Food,Burgers,Coffee & Tea,",$,Fast Food,Burgers,Coffee & Tea
+Papa Murphy’s,yelp.com/biz/papa-murphys-davis,3.5 star rating,41,"Pizza,",$,Pizza,,
+Street Cravings,yelp.com/biz/street-cravings-davis,4.5 star rating,12,"Food Trucks,Tacos,Sandwiches,",$,Food Trucks,Tacos,Sandwiches
+Save Mart,yelp.com/biz/save-mart-davis,3 star rating,68,"Grocery,Bakeries,",$,Grocery,Bakeries,
+Whole Earth Festival,yelp.com/biz/whole-earth-festival-davis-2,4 star rating,26,"Local Flavor,Festivals,",$,Local Flavor,Festivals,
+IHOP,yelp.com/biz/ihop-davis-2,2.5 star rating,148,"Breakfast & Brunch,American (Traditional),Burgers,",$,Breakfast & Brunch,American (Traditional),Burgers
+Wildhorse Golf Club,yelp.com/biz/wildhorse-golf-club-davis,3.5 star rating,56,"Golf,",$$,Golf,,
+Mountain Mike’s Pizza,yelp.com/biz/mountain-mikes-pizza-davis,4 star rating,30,"Pizza,",$,Pizza,,
+Cuarto Dining Commons,yelp.com/biz/cuarto-dining-commons-davis,4 star rating,18,"Buffets,Cafeteria,",$,Buffets,Cafeteria,
+Kotchen,yelp.com/biz/kotchen-davis-2,3.5 star rating,33,"Chinese,Bubble Tea,Soup,",$,Chinese,Bubble Tea,Soup
